@@ -98,4 +98,9 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+
 .probe
+.mixin.out
+ftbchunks*.snbt
+ftbessentials.snbt
+kubejs/config/web_server.json
